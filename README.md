@@ -32,14 +32,14 @@ I recently graduated with a B.S. in Mechanical Engineering and have worked on pr
 - 3D printing and fabrication
 - Robotics design teams
 
-# Tech Stack
+## Tech Stack
 - Python
 - C++
 - INav
 - Ros2
 - OpenCV
 
-# Current Goals
+## Current Goals
 - Build stronger robotics software skills
 - Create robotics and embedded systems portfolio projects
 - Break into the robotics industry
