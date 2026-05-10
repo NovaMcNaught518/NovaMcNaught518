@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm Nova an aspiring Robotics Engineer based in LA.
-I build systems where code sensors and actuators come together.
+
+I build systems where code, sensors and actuators, come together.
+
 I love diving into a project and getting my hands dirty.
 
 Currently focused on:
